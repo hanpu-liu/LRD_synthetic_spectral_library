@@ -4,3 +4,4 @@ Described in H. Liu et al. 2026, [arxiv:](https://arxiv.org/).
 
 `example.ipynb` explains the synthetic spectral library data and gives visualization examples.
 
+`modelstats_mags.csv` is a table listing the parameters of all synthetic spectra, their photosphere densities, and derived magnitudes in synthetic photometric bands. 
