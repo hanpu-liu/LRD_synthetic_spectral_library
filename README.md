@@ -1,6 +1,6 @@
 ### Synthetic spectral library of optically thick atmospheres for Little Red Dots (LRDs)
 
-Described in H. Liu et al. 2026, [arxiv:](https://arxiv.org/).
+Described in H. Liu et al. 2026, [arxiv:2603.02317](https://arxiv.org/abs/2603.02317).
 
 `example.ipynb` explains the synthetic spectral library data and gives visualization examples.
 
