@@ -2,7 +2,7 @@
 
 Described in: H. Liu, Y.-F. Jiang, E. Quataert, J. E. Greene, Y. Ma, X. Lin (2026),
 "Synthetic Spectral Library of Optically Thick Atmospheres for Little Red Dots,"
-*submitted to ApJ*, [arXiv:2603.02317](https://arxiv.org/abs/2603.02317).
+*accepted for publication in ApJ*, [arXiv:2603.02317](https://arxiv.org/abs/2603.02317).
 DOI: [to be added upon publication]
 
 ## Contents
